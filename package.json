@@ -6,5 +6,8 @@
   "repository": "https://github.com/carlsachs/speed-components1.git",
   "author": "Carl Sachs",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "styled-components": "^5.0.1"
+  }
 }
