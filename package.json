@@ -1,0 +1,10 @@
+{
+  "name": "speed-components1",
+  "version": "1.0.1",
+  "description": "styled-components based react library",
+  "main": "src/index.js",
+  "repository": "https://github.com/carlsachs/speed-components1.git",
+  "author": "Carl Sachs",
+  "license": "MIT",
+  "private": false
+}
